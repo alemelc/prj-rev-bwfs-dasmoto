@@ -1,0 +1,39 @@
+body {
+	font-family: Verdana, sans-serif;
+
+}
+
+
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url("I:/MEGAsync/PROGRAMMAZIONE/HTML CSS/SITI/CA PROJECTS/DASMOTO/RESOURCES/IMAGES/pattern.jpeg");
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	
+	
+}
+
+.brushes {
+			background-color: mediumspringgreen;
+}
+
+.frames {
+			background-color: lightcoral;
+}
+
+.paints {
+			background-color: skyblue;
+}
+
+.start-price {
+	font-weight: bold;
+	color: blue;
+}
